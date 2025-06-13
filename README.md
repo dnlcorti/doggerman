@@ -98,3 +98,15 @@ Rileggi e adatta le parti in corsivo secondo le policy della tua codebase; il re
 
 
 
+
+## Setup
+
+This repository contains a minimal Angular skeleton for the **k9-trainer** project. To try the application locally:
+
+```bash
+cd k9-trainer
+npm install
+npm run start
+```
+
+The project was generated manually to match the structure proposed above and includes stub modules and components for further development.
